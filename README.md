@@ -1,5 +1,5 @@
 # Pacman
-Pacman game made with unity, this is just the Assets amd Project Settings folders.
+Pacman game made with unity, this is just the Assets and Project Settings folders. The rest is too large for github.
 
 To run this you need to 
 
